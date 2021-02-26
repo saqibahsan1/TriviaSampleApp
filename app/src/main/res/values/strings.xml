@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TriviaSample</string>
+    <string name="please_select_the_difficulty_level">Please select the difficulty level</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="logo">logo</string>
+    <string name="submit_button">Submit Answer</string>
+    <string name="question">Which internet company began life as an online bookstore called \'Cadabra\'?</string>
+    <string name="score_0">Score: 0</string>
+    <string name="_00_20">00:20</string>
+
+    <string-array name="levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>
