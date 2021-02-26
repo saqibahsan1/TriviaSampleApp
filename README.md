@@ -1,7 +1,7 @@
-# TriviaSampleApp 
- #TriviaSampleApp that ask user to select difficulty level
-#according to the level of difficulty it fetches the questions and there answers from the given API
-#coroutins for api calling using retrofit 
+ TriviaSampleApp 
+ TriviaSampleApp that ask user to select difficulty level
+according to the level of difficulty it fetches the questions and there answers from the given API
+coroutins for api calling using retrofit 
 Normal quiz questions were asked and user will have the score according to the difficulty level 
 for easy = 1
 medium = 2
